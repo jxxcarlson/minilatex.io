@@ -5,7 +5,7 @@
 ![Image](http://minilatex.s3.amazonaws.com/k2.png)
 
 
-The aim of the MiniLaTex project is to provide a way for authors to write LaTeX document directly on the web. MathJax does a beautiful job of rendering formulas.  But what about the rest?  Sections, tables, cross-references, hyperlinks, etc.? MiniLaTeX, building on MathJax, handles these and many other elements in a  defined subset of LaTeX, sufficient for writing class materials, and lecture notes.
+The aim of the MiniLaTex project is to provide a way for authors to write LaTeX documents directly on the web. MathJax does a beautiful job of rendering formulas.  But what about the rest?  Sections, tables, cross-references, hyperlinks, etc.? MiniLaTeX, building on MathJax, handles these and many other elements in a  defined subset of LaTeX, sufficient for writing class materials, [lecture notes](https://knode.io/427), etc.
 
 $$
 \int_0^1 x^n dx = \frac{1}{n+1}
@@ -36,3 +36,7 @@ If you have questions or comments regarding MiniLaTeX or the MiniLaTeX services 
 We plan to make substantial improvements to all parts of the project over the summer of 2019.
 
 — [Jim](https://jxxcarlson.io) 
+
+PS. I am giving a talk on MiniLaTeX on Friday, June 9 at [Lambda Conf 2019](https://lambdaconf.zohobackstage.com/LambdaConf2019?lang=en#/agenda?day=3&lang=en&sessionId=6967000000359716) in Boulder Colorado.
+
+[Talks on MiniLaTeX](https://minilatex.io/talks.html)
